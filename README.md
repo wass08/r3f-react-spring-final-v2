@@ -1,10 +1,10 @@
-![R3F REACT SPRING](https://user-images.githubusercontent.com/6551176/223967344-0de631a8-949a-419e-b573-f355e6666873.jpg)
+![Thumbnail Final Result](https://user-images.githubusercontent.com/6551176/225519821-0571a703-dce1-4f8b-948d-cff3cffadb61.jpg)
 
-[Demo](https://codesandbox.io/p/github/wass08/r3f-react-spring-final/main?file=%2FREADME.md)
+[Demo](https://codesandbox.io/p/github/wass08/r3f-react-spring-final-v2/main?file=%2FREADME.md)
 
-[Video tutorial](https://youtu.be/kOeflXVJ0cc)
+[Video tutorial](https://youtu.be/9dP5Vc84WgY)
 
-[Starter pack](https://github.com/wass08/r3f-react-spring-starter)
+[Starter pack](https://github.com/wass08/r3f-react-spring-final)
 
 
 ### 3D Model credits
